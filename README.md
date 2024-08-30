@@ -1,5 +1,5 @@
 ### JustPii 👋
-I want to train deep neural nets.
+I'm GPU-poor.
 
 <!--
 **iamnotpi/iamnotpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
